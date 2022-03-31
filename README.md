@@ -11,7 +11,7 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|28/03/2022| Frederique Henry | _(TBA)_ ||
+|25/04/2022| _(TBA)_ | _(TBA)_ ||
 
 
 
@@ -19,7 +19,8 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic|Material|
 |---|---|---|---|
-|28/02/2022| Koustava Goswami | Unsupervised deep representation learning for under-resourced languages |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/xxx.pdf)|
+|28/03/2022| Frederique Henry | What we can learn from exploring health-related texts : the example of speech and language therapy (SLT) |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_mar28.pdf)|
+|28/02/2022| Koustava Goswami | Unsupervised deep representation learning for under-resourced languages |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_feb28.pdf)|
 |02/02/2022| Marie Flesch | How to study gender in large corpora of online data? |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_feb02.pdf)|
 |17/01/2022| Guilherme Alves |Reducing Unintended Bias of ML Models on Tabular and Textual Data |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_jan17.pdf)|
 |06/12/2021| Anna Liednikova |Let the Patient Talk: using dialog to collect important patient information |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_dec06.pdf)|
