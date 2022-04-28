@@ -11,7 +11,8 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|25/04/2022| _(TBA)_ | _(TBA)_ ||
+|25/04/2022| Timothee Mickus | _(TBA)_ ||
+|_(TBA)_|Sam Élise Bigeard|_(TBA)_||
 
 
 
