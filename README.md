@@ -11,8 +11,8 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|25/04/2022| Timothee Mickus | _(TBA)_ ||
-|_(TBA)_|Sam Élise Bigeard|_(TBA)_||
+|23/05/2022| Timothee Mickus | _(TBA)_ ||
+|18/07/2022|Sam Élise Bigeard|_(TBA)_||
 
 
 
@@ -20,6 +20,8 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic|Material|
 |---|---|---|---|
+|~~25/04/2022~~|_(Recess)_|_(Easter Holidays)_||
+|~~11/04/2022~~|_(Recess)_|_(Easter Holidays)_||
 |28/03/2022| Frederique Henry | What we can learn from exploring health-related texts : the example of speech and language therapy (SLT) |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_mar28.pdf)|
 |28/02/2022| Koustava Goswami | Unsupervised deep representation learning for under-resourced languages |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_feb28.pdf)|
 |02/02/2022| Marie Flesch | How to study gender in large corpora of online data? |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_feb02.pdf)|
