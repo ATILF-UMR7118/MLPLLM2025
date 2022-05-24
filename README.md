@@ -11,7 +11,6 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|23/05/2022| Timothee Mickus | _(TBA)_ ||
 |18/07/2022|Sam Élise Bigeard|_(TBA)_||
 
 
@@ -20,6 +19,7 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic|Material|
 |---|---|---|---|
+|23/05/2022| Timothee Mickus |Emergence of communication and inductive biases towards compositionality |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_may23.pdf)|
 |~~25/04/2022~~|_(Recess)_|_(Easter Holidays)_||
 |~~11/04/2022~~|_(Recess)_|_(Easter Holidays)_||
 |28/03/2022| Frederique Henry | What we can learn from exploring health-related texts : the example of speech and language therapy (SLT) |[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_mar28.pdf)|
