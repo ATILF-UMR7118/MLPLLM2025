@@ -11,8 +11,6 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|03/10/2022|Laura Zanella|_(TBA)_||
-|17/10/2022|Sam Élise Bigeard|_(TBA)_||
 |28/11/2022|Maria Boritchev|_(TBA)_||
 
 
