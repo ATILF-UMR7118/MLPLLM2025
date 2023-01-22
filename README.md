@@ -11,13 +11,15 @@ Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|28/11/2022|Maria Boritchev|_(TBA)_||
+|20/02/2023|_(TBA)_|||
+|23/01/2023|Félix Gaschi|How to evaluate multilingual alignment of contextualized embeddings||
 
 
 ## Past presentations
 
 |Date|Presenter|Topic|Material|
 |---|---|---|---|
+|28/11/2022|Maria Boritchev|Compositionality, languages, and neural networks|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/)|
 |17/10/2022|Sam Bigeard|NLP for sign languages: How to index sign language resources?|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_oct17.pdf)|
 |03/10/2022|Laura Zanella|Fine-tuning Pre-trained Transformer Language Models for Biomedical Event Trigger Detection|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_oct03.pdf)|
 |05/09/2022|Chuyuan Li|Discourse Structure Extraction in Dialogs|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_sep05.pdf)|
