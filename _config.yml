@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+
+title: "CaféTAL"
+description: "Reading Group ATILF, Université de Lorraine"
+logo: assets/img/atilf.png
+author:
+  name: Aman Sinha
+  url:  https://atilf-reading-group.com
+
+organizers:
+  - Aman Sinha
+  - Matthieu Constant
+
+github: false
