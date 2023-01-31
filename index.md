@@ -23,9 +23,10 @@ You can subscribe to our mailing list at [https://courrier.atilf.fr/sympa/info/n
 
 ## Past talks
 
+
 |Date|Presenter|Topic|Material|
 |---|---|---|---|
-|23/01/2023|Félix Gaschi|How to evaluate multilingual alignment of contextualized embeddings||[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_jan24.pdf)|
+|23/01/2023|Félix Gaschi|How to evaluate multilingual alignment of contextualized embeddings|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_jan24.pdf)|
 |28/11/2022|Maria Boritchev|Compositionality, languages, and neural networks|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/)|
 |17/10/2022|Sam Bigeard|NLP for sign languages: How to index sign language resources?|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_oct17.pdf)|
 |03/10/2022|Laura Zanella|Fine-tuning Pre-trained Transformer Language Models for Biomedical Event Trigger Detection|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_oct03.pdf)|
@@ -56,12 +57,14 @@ You can subscribe to our mailing list at [https://courrier.atilf.fr/sympa/info/n
 |30/03/2021|Mathieu Constant|Identification of Multi-Word Expressions| [Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_march30.pdf)|
 |23/03/2021|Bertrand Gaiffe|POS tagging Frantext| [Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_march23.pdf)|
 |16/03/2021|Elena del Olmo Suárez|Expectation-based conceptual schemas extraction: an application of the Thematic Progression Theory to NLP tasks| [Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_march16.pdf)|
-|09/03/2021|Aman Sinha|Word Sense Disambiguation: **Learning to Learn to Disambiguate**| [Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_march09.pdf)|
+|09/03/2021|Aman Sinha|Word Sense Disambiguation: Learning to Learn to Disambiguate| [Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_march09.pdf)|
 |02/03/2021|Timothee Mickus|Dictionaries, Word vectors and Online Game|[Website](https://blankcrack.atilf.fr)|
 
 
 
 ## Organizers
 
+
 Aman Sinha  [aman.sinha@atilf.fr](aman.sinha@atilf.fr)
+
 Matthieu Constant  [mathieu.constant@atilf.fr](mathieu.constant@atilf.fr)
