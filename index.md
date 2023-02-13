@@ -19,7 +19,7 @@ You can subscribe to our mailing list at [https://courrier.atilf.fr/sympa/info/n
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|20/02/2023|_(TBA)_|||
+|27/03/2023|_(TBA)_|Valentin D. Richard||
 
 ## Past talks
 
