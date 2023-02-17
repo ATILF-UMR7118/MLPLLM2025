@@ -67,4 +67,6 @@ You can subscribe to our mailing list at [https://courrier.atilf.fr/sympa/info/n
 
 Aman Sinha  [aman.sinha@atilf.fr](aman.sinha@atilf.fr)
 
-Matthieu Constant  [mathieu.constant@atilf.fr](mathieu.constant@atilf.fr)
+Hee-Soo Choi [hee-soo.choi@loria.fr](hee-soo.choi@loria.fr)
+
+Mathieu Constant  [mathieu.constant@atilf.fr](mathieu.constant@atilf.fr)
