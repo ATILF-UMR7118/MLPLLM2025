@@ -19,13 +19,14 @@ You can subscribe to our mailing list at [https://courrier.atilf.fr/sympa/info/n
 
 |Date|Presenter|Topic| Material |
 |---|---|---|---|
-|27/03/2023|Valentin D. Richard|_(TBA)_||
+|17/04/2023|_(TBA)_|_(TBA)_||
 
 ## Past talks
 
 
 |Date|Presenter|Topic|Material|
 |---|---|---|---|
+|27/03/2023|Valentin D. Richard|Extraction des interrogatives de corpus francophones annotés en dépendances universelles|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_march27.pdf)|
 |23/01/2023|Félix Gaschi|How to evaluate multilingual alignment of contextualized embeddings|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_jan24.pdf)|
 |28/11/2022|Maria Boritchev|Compositionality, languages, and neural networks|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/)|
 |17/10/2022|Sam Bigeard|NLP for sign languages: How to index sign language resources?|[Slides](https://github.com/ATILF-UMR7118/CafeTAL/blob/master/slides/reading_group_atilf_oct17.pdf)|
