@@ -4,7 +4,7 @@ title: CaféTAL - Reading Group ATILF, Université de Lorraine
 
 ## About
 
-We are a reading group focusing on the intersection of Linguitics and Natural Language Processing. Topics include, but are not limited to, linguistics, computational linguistics, natural language processing, application of deep learning, lexical resources, knowledge graphs, etc.
+We are a reading group focusing on the intersection of Linguistics and Natural Language Processing. Topics include, but are not limited to, linguistics, computational linguistics, natural language processing, application of deep learning, lexical resources, knowledge graphs, etc.
 
 This is bi-weekly meeting, where we get together and one of the lab members/or some guest from other labs talk / discuss their research work. We are oriented towards researchers in linguistics and adjacent disciplines as well as anyone else with an academic interest in the area. We'd love to meet you!
 
