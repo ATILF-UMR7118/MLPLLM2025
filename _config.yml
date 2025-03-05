@@ -1,15 +1,14 @@
 theme: jekyll-theme-minimal
 
-title: "CaféTAL"
-description: "Reading Group ATILF, Université de Lorraine, Nancy, France"
+title: "MLP-LLM 2025"
+description: "Medical Language Processing in the era of Large Language Models"
 logo: assets/img/ATILF_logo.jpg
 author:
   name: Aman Sinha
-  url:  https://atilf-reading-group.com
+  url:  http://atilf-umr7118.github.io/MLPLLM2025/
 
 organizers:
+  - Ioana Buhnila
   - Aman Sinha
-  - Hee-Soo Choi
-  - Mathieu Constant
 
 github: false
