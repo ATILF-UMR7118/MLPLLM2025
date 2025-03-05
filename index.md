@@ -2,11 +2,10 @@
 title: MLP-LLM 2025 
 ---
 
+# Medical Language Processing in the era of Large Language Models (MLP-LLM 2025)
+
 *Venue* : Colocated with CORIA-TALN 2025, Marseille
-
 *Date* : 30th June 2025
-
-
 
 ### Description
 
@@ -59,4 +58,4 @@ mlpllm2025@gmail.com
 * Claire Nedellec, Institut National de Recherche Agronomique (INRA)  
 * Lisa Raithel, DFKI  
 * Ioana Buhnila, ATILF, CNRS - Université de Lorraine  
-* Aman Sinha, IECL- ATILF, CNRS - Université de Lorraine - ICANS Strasbourg  
+* Aman Sinha, IECL- ATILF - ICANS
