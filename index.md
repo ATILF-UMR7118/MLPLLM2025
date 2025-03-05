@@ -2,7 +2,13 @@
 title: MLP-LLM 2025 
 ---
 
-## About
+*Venue* : Colocated with CORIA-TALN 2025, Marseille
+
+*Date* : 30th June 2025
+
+
+
+### Description
 
 L'avènement des grands modèles de langue (LLMs) a révolutionné le traitement automatique des langues dans divers domaines, y compris la santé [3,4,7]. Cependant, la complexité du langage médical - marquée
 par des terminologies spécialisées, l’utilisation des abréviations et des ontologies médicales de type ICD, UMLS or SNOMED [1], des dépendances contextuelles implicites [8] (dans un contexte donné, le contenu
@@ -19,3 +25,38 @@ plantes, virus, microbes) [10]. Cet atelier, MLP-LLM, vise à rassembler des che
 * Développer des applications des LLMs dans l'aide à la décision clinique, la transcription médicale et la communication entre les praticiens et les patients [2,7].
 
 Cet atelier favorisera la collaboration et encouragera des discussions et les avancées scientifiques dans le TAL, l’IA générative et les besoins médicaux réels.
+
+
+### Invited Speaker
+
+Natalia Grabar, Université de Lille
+
+
+### Important Dates
+
+TBA
+
+### Contact
+
+mlpllm2025@gmail.com
+
+
+### Scientific Committee
+
+* Aurélie Névéol, Université Paris-Saclay, CNRS, LISN  
+* Natalia Grabar, Université de Lille  
+* Remi Cardon, CENTAL, IL&C, Université Catholique de Louvain  
+* Cyril Grouin, LISN, CNRS - Université Paris-Saclay  
+* Amalia Todirascu, LiLPa, Université de Strasbourg  
+* Lina F. Soualmia, Université Rouen Normandie  
+* Patrick Watrin, CENTAL, UCLouvain  
+* Adrien Coulet, Inria Paris - Université de Lorraine  
+* Benoit Favre, Université d’Aix-Marseille  
+* Emmanuel Morin, Université de Nantes  
+* Richard Dufour, Université de Nantes  
+* Mathieu Constant, Université de Lorraine  
+* Timothee Mickus, University of Helsinki  
+* Claire Nedellec, Institut National de Recherche Agronomique (INRA)  
+* Lisa Raithel, DFKI  
+* Ioana Buhnila, ATILF, CNRS - Université de Lorraine  
+* Aman Sinha, IECL- ATILF, CNRS - Université de Lorraine - ICANS Strasbourg  
