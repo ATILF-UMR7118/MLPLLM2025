@@ -31,6 +31,8 @@ Cet atelier favorisera la collaboration et encouragera des discussions et les av
 
 Natalia Grabar, Université de Lille
 
+_Abstract_ : TBA
+
 
 ### Important Dates
 
@@ -39,6 +41,17 @@ TBA
 ### Contact
 
 mlpllm2025@gmail.com
+
+### Programme Committee
+
+* Ioana Buhnila, PostDoc - ATILF, CNRS - Université de Lorraine (co-responsable)
+* Aman Sinha, PhD - IECL- ATILF - ICANS Strasbourg (co-responsable)
+* Hanbyul Song, PostDoc - ATILF, CNRS - Université de Lorraine
+* Laura Zanella, Data Scientist - POSOS
+* Salomé Klein, PhD - LiLPa, Université de Strasbourg
+* Joé Laroche, PhD - LiLPa, Université de Strasbourg 
+* Delphine Charuau, PostDoc - Trinity College Dublin 
+* Sam Bigeard, PostDoc, INRIA, Université de Lorraine
 
 
 ### Scientific Committee
@@ -60,3 +73,5 @@ mlpllm2025@gmail.com
 * Lisa Raithel, DFKI  
 * Ioana Buhnila, ATILF, CNRS - Université de Lorraine  
 * Aman Sinha, IECL- ATILF - ICANS
+
+

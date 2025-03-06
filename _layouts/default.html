@@ -24,8 +24,9 @@
         <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.venue %}
-        <p class="organizers">
-        Venue: {{ site.venue }}
+        <p class="venue">
+          <li> Venue: {{ site.venue }} </li>
+          <li> Date: {{ site.date }} </li>
         </p>
         {% endif %}
 
