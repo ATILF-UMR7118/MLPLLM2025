@@ -1,7 +1,7 @@
-# Presentations
+# MLP-LLM 2025
 
-Gitlab for hosting presentation materials for the Café TAL meetings
+Workshop on Medical Language Processsing in the era of Large language models
 
-Gitlab pour documenter en ligne les présentations aux réunions Café TAL
+Co-located with CORIA-TALN 2025, Marseille, France on 30th June 2025
 
-Subscribe to our [mailing list](https://courrier.atilf.fr/sympa/).
+Contact : mlpllm2025@gmail.com
