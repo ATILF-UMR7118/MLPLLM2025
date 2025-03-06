@@ -24,12 +24,10 @@ plantes, virus, microbes) [10]. Cet atelier, MLP-LLM, vise à rassembler des che
 * Développer des benchmarks spécifiques au domaine pour évaluer les LLMs dans le domaine de la santé.
 * Développer des applications des LLMs dans l'aide à la décision clinique, la transcription médicale et la communication entre les praticiens et les patients [2,7].
 
-Cet atelier favorisera la collaboration et encouragera des discussions et les avancées scientifiques dans le TAL, l’IA générative et les besoins médicaux réels.
-
 
 ### Invited Speaker
 
-Natalia Grabar, Université de Lille
+[Natalia Grabar](http://natalia.grabar.free.fr/), Université de Lille
 
 _Abstract_ : TBA
 
