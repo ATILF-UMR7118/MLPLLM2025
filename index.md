@@ -15,7 +15,7 @@ par des terminologies spécialisées, l’utilisation des abréviations et des o
 médical peut changer en fonction de la temporalité, l’événement ou le degré de certitude) - pose des défis et des opportunités uniques. Le TAL médical peut aider les praticiens hospitaliers dans le diagnostic et le
 traitement des patients [5]. Pourtant, le domaine de la santé comprend non seulement l’aspect humain représenté par la relation praticien-patient, mais également le contact avec le monde biologique (animaux,
 plantes, virus, microbes) [10]. Cet atelier, MLP-LLM, vise à rassembler des chercheurs en TAL, bioinformatique, médecine et linguistique afin d'explorer les avancées, les limites et les considérations
-éthiques de l'utilisation des LLMs dans des contextes médicaux. Les sujets d'intérêt incluent, mais ne sont pas limités à :
+éthiques de l'utilisation des LLMs dans des contextes médicaux. Les sujets d'intérêt incluent, mais ne sont pas limités à:
 
 * Affiner et adapter les LLMs pour les applications médicales et pour différentes langues.
 * Proposer des méthodes d'évaluation adaptées au domaine médical.
