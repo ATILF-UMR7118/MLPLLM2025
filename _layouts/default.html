@@ -23,6 +23,12 @@
 
         <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.venue %}
+        <p class="organizers">
+        Venue: {{ site.venue }}
+        </p>
+        {% endif %}
+
         {% if site.organizers %}
         <p class="organizers">
         Organizers: {{ site.organizers | array_to_sentence_string }}
