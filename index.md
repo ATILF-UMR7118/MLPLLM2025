@@ -44,14 +44,14 @@ mlpllm2025@gmail.com
 
 ### Programme Committee
 
-* Ioana Buhnila, PostDoc - ATILF, CNRS - Université de Lorraine (co-responsable)
-* Aman Sinha, PhD - IECL- ATILF - ICANS Strasbourg (co-responsable)
-* Hanbyul Song, PostDoc - ATILF, CNRS - Université de Lorraine
-* Laura Zanella, Data Scientist - POSOS
-* Salomé Klein, PhD - LiLPa, Université de Strasbourg
-* Joé Laroche, PhD - LiLPa, Université de Strasbourg 
-* Delphine Charuau, PostDoc - Trinity College Dublin 
-* Sam Bigeard, PostDoc, INRIA, Université de Lorraine
+* Ioana Buhnila, ATILF, CNRS - Université de Lorraine (co-responsable)
+* Aman Sinha, IECL- ATILF - ICANS Strasbourg (co-responsable)
+* Hanbyul Song, ATILF, CNRS - Université de Lorraine
+* Laura Zanella, POSOS
+* Salomé Klein, LiLPa, Université de Strasbourg
+* Joé Laroche, LiLPa, Université de Strasbourg 
+* Delphine Charuau, Trinity College Dublin 
+* Sam Bigeard, INRIA, Université de Lorraine
 
 
 ### Scientific Committee
