@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Switch to EN
-rank: 3
+rank: 5
 ---
 
 # Medical Language Processing in the era of Large Language Models (MLP-LLM 2025)
 
 **Venue** : Colocated with [CORIA-TALN 2025](https://coria-taln-2025.lis-lab.fr/), Marseille, France
 
-**Date** : 30th Juin 2025
+**Date** : 30th June 2025
 
 *[Last Update : 10th March 2025]*
 
@@ -37,14 +37,11 @@ explore advancements, limitations, and ethical considerations of using LLMs in m
 
 [Natalia Grabar](http://natalia.grabar.free.fr/), Université de Lille
 
-_Abstract_ : TBA
-
-
 ### Important Dates
 
-**Submission Due**: 30 Avril 2025
+**Submission Due**: 30 April 2025
 
-**Author Notification**: 15 Mai 2025
+**Author Notification**: 15 May 2025
 
 **Camera ready**: TBA
 

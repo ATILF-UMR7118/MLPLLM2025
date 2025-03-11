@@ -3,7 +3,7 @@ layout: default
 title: Author Instructions
 rank: 1
 ---
-### Intructions to Authors
+### Instructions to Authors
 
 Système de soumission : [https://easychair.org/my/conference?conf=coriataln2025](https://easychair.org/my/conference?conf=coriataln2025)
 

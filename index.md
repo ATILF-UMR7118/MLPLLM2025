@@ -31,9 +31,6 @@ plantes, virus, microbes) [10]. Cet atelier, MLP-LLM, vise à rassembler des che
 
 [Natalia Grabar](http://natalia.grabar.free.fr/), Université de Lille
 
-_Abstract_ : TBA
-
-
 ### Important Dates
 
 **Soumission des articles**: 30 Avril 2025
