@@ -10,7 +10,7 @@ author:
 venue: Colocated with CORIA-TALN, Marseille, France
 date: 30 juin 2025
 
-sidebar:
+children:
   - author-instructions
 
 github: false
