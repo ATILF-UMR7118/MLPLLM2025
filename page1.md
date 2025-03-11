@@ -5,6 +5,11 @@ rank: 1
 ---
 ### Instructions to Authors
 
+* **Submission Due**: 30 April 2025
+* **Author Notification**: 15 May 2025
+* **Camera ready**: 17 May 2025
+* **Workshop**: 30 June 2025
+
 Système de soumission : [https://easychair.org/my/conference?conf=coriataln2025](https://easychair.org/my/conference?conf=coriataln2025)
 
 **Feuilles de style**

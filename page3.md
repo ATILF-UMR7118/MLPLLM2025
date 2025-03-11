@@ -10,7 +10,7 @@ rank: 5
 
 **Date** : 30th June 2025
 
-*[Last Update : 10th March 2025]*
+*[Last Update : 11th March 2025]*
 
 ### Description
 
@@ -39,11 +39,10 @@ explore advancements, limitations, and ethical considerations of using LLMs in m
 
 ### Important Dates
 
-**Submission Due**: 30 April 2025
-
-**Author Notification**: 15 May 2025
-
-**Camera ready**: TBA
+* **Submission Due**: 30 April 2025
+* **Author Notification**: 15 May 2025
+* **Camera ready**: 17 May 2025
+* **Workshop**: 30 June 2025
 
 ### Contact
 
@@ -84,25 +83,16 @@ explore advancements, limitations, and ethical considerations of using LLMs in m
 
 ### References
 
-[1] Roger A Cote. 1998. Systematized nomenclature of human and veterinary medicine: Snomed international. version 3.5. Northfield, IL: College of American Pathologists.
-
-[2] Thomas W LeBlanc, Ashley Hesson, Andrew Williams, Chris Feudtner, Margaret Holmes-Rovner, Lillie D Williamson, and Peter A Ubel. 2014. Patient understanding of medical jargon: a survey study of us medical students.
+1. Roger A Cote. 1998. Systematized nomenclature of human and veterinary medicine: Snomed international. version 3.5. Northfield, IL: College of American Pathologists.
+2. Thomas W LeBlanc, Ashley Hesson, Andrew Williams, Chris Feudtner, Margaret Holmes-Rovner, Lillie D Williamson, and Peter A Ubel. 2014. Patient understanding of medical jargon: a survey study of us medical students.
 Patient education and counseling, 95(2):238–242.
-
-[3] Li, J., Dada, A., Puladi, B., Kleesiek, J., & Egger, J. (2024). ChatGPT in healthcare: a taxonomy and systematic review. Computer Methods and Programs in Biomedicine, 108013.
-
-[4] Neveol, A., De Bruijn, B., & Fredouille, C. (2020). TAL et Santé [NLP and Health]. Traitement Automatique des Langues, 61(2), 7-14.
-
-[5] Logesh Kumar Umapathi, Ankit Pal, and Malaikannan Sankarasubbu. 2023. Med-halt: Medical domain hallucination test for large language models. arXiv preprint arXiv:2307.15343.
-
-[6] Seyedeh Belin Tavakoly Sany, Fatemeh Behzhad, Gordon Ferns, and Nooshin Peyman. 2020. Communication skills training for physicians improves health literacy and medical outcomes among patients with hypertension: a
+3. Li, J., Dada, A., Puladi, B., Kleesiek, J., & Egger, J. (2024). ChatGPT in healthcare: a taxonomy and systematic review. Computer Methods and Programs in Biomedicine, 108013.
+4. Neveol, A., De Bruijn, B., & Fredouille, C. (2020). TAL et Santé [NLP and Health]. Traitement Automatique des Langues, 61(2), 7-14.
+5. Logesh Kumar Umapathi, Ankit Pal, and Malaikannan Sankarasubbu. 2023. Med-halt: Medical domain hallucination test for large language models. arXiv preprint arXiv:2307.15343.
+6. Seyedeh Belin Tavakoly Sany, Fatemeh Behzhad, Gordon Ferns, and Nooshin Peyman. 2020. Communication skills training for physicians improves health literacy and medical outcomes among patients with hypertension: a
 randomized controlled trial. BMC health services research, 20:1–10.
-
-[7] Wen, A., Fu, S., Moon, S., El Wazir, M., Rosenbaum, A., Kaggal, V. C., ... & Fan, J. (2019). Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation. NPJ digital
+7. Wen, A., Fu, S., Moon, S., El Wazir, M., Rosenbaum, A., Kaggal, V. C., ... & Fan, J. (2019). Desiderata for delivering NLP to accelerate healthcare AI advancement and a Mayo Clinic NLP-as-a-service implementation. NPJ digital
 medicine, 2(1), 130.
-
-[8] Mahajan, D., Liang, J. J., & Tsou, C. H. (2022, February). Toward understanding clinical context of medication change events in clinical narratives. In AMIA Annual Symposium Proceedings (Vol. 2021, p. 833).
-
-[9] Nazi, Z. A., & Peng, W. (2024, August). Large language models in healthcare and medical domain: A review. In Informatics (Vol. 11, No. 3, p. 57). MDPI
-
-[10] Chaix, E., Deléger, L., Bossy, R., & Nédellec, C. (2019). Text mining tools for extracting information about microbial biodiversity in food. Food microbiology, 81, 63-75.
+8. Mahajan, D., Liang, J. J., & Tsou, C. H. (2022, February). Toward understanding clinical context of medication change events in clinical narratives. In AMIA Annual Symposium Proceedings (Vol. 2021, p. 833).
+9. Nazi, Z. A., & Peng, W. (2024, August). Large language models in healthcare and medical domain: A review. In Informatics (Vol. 11, No. 3, p. 57). MDPI
+10. Chaix, E., Deléger, L., Bossy, R., & Nédellec, C. (2019). Text mining tools for extracting information about microbial biodiversity in food. Food microbiology, 81, 63-75.
