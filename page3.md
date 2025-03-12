@@ -10,7 +10,10 @@ rank: 5
 
 **Date** : 30th June 2025
 
-*[Last Update : 11th March 2025]*
+*[Last Update : 12th March 2025]*
+
+[[Go to fr version](https://atilf-umr7118.github.io/MLPLLM2025/)]
+
 
 ### Description
 
@@ -32,6 +35,11 @@ explore advancements, limitations, and ethical considerations of using LLMs in m
 * Developing domain-specific benchmarks for evaluating LLMs in healthcare.
 * Developing applications for LLMs in clinical decision support, medical transcription and communication between practitioners and patients. [2,7]
 
+We welcome articles that are:
+* new contributions,
+* state-of-the-art articles,
+* work in progress,
+* short/translated version of a paper accepted at a major conference.
 
 ### Invited Speaker
 
@@ -41,7 +49,7 @@ explore advancements, limitations, and ethical considerations of using LLMs in m
 
 * **Submission Due**: 30 April 2025
 * **Author Notification**: 15 May 2025
-* **Camera ready**: 17 May 2025
+* **Camera ready**: 21 May 2025
 * **Workshop**: 30 June 2025
 
 ### Contact

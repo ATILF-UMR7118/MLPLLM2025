@@ -8,7 +8,9 @@ title: MLP-LLM 2025
 
 **Date** : 30th Juin 2025
 
-*[Last Update : 11th March 2025]*
+*[Last Update : 12th March 2025]*
+
+[[Go to en version](https://atilf-umr7118.github.io/MLPLLM2025/page3.html)]
 
 ### Description
 
@@ -26,6 +28,11 @@ plantes, virus, microbes) [10]. Cet atelier, MLP-LLM, vise à rassembler des che
 * Développer des benchmarks spécifiques au domaine pour évaluer les LLMs dans le domaine de la santé.
 * Développer des applications des LLMs dans l'aide à la décision clinique, la transcription médicale et la communication entre les praticiens et les patients [2,7].
 
+Les types d'article acceptés sont:
+* contribution nouvelle,
+* état de l'art,
+* travaux en cours,
+* version courte/traduite d'un article accepté dans une grande conférence.
 
 ### Invited Speaker
 
@@ -35,7 +42,7 @@ plantes, virus, microbes) [10]. Cet atelier, MLP-LLM, vise à rassembler des che
 
 * **Soumission des articles**: 30 Avril 2025
 * **Notification aux auteurs**: 15 Mai 2025
-* **Version finale**: 17 Mai 2025
+* **Version finale**: 21 Mai 2025
 * **Atelier** : 30 Juin 2025
 
 ### Contact
