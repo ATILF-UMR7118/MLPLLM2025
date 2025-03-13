@@ -84,7 +84,7 @@ We welcome articles that are:
 * Mathieu Constant, Université de Lorraine  
 * Timothee Mickus, University of Helsinki  
 * Claire Nedellec, Institut National de Recherche Agronomique (INRA)  
-* Lisa Raithel, DFKI  
+* Lisa Raithel, TU Berlin, BIFOLD, DFKI
 * Ioana Buhnila, ATILF, CNRS - Université de Lorraine  
 * Aman Sinha, IECL- ATILF - ICANS
 
