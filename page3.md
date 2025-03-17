@@ -72,7 +72,7 @@ We welcome articles that are:
 
 * Aurélie Névéol, Université Paris-Saclay, CNRS, LISN  
 * Natalia Grabar, Université de Lille  
-* Remi Cardon, CENTAL, IL&C, Université Catholique de Louvain  
+* Remi Cardon, Ghent University
 * Cyril Grouin, LISN, CNRS - Université Paris-Saclay  
 * Amalia Todirascu, LiLPa, Université de Strasbourg  
 * Lina F. Soualmia, Université Rouen Normandie  
