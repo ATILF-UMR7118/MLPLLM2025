@@ -41,8 +41,8 @@ Les types d'article acceptés sont:
 ### Important Dates
 
 * **Soumission des articles**: 30 Avril 2025
-* **Notification aux auteurs**: 15 Mai 2025
-* **Version finale**: 21 Mai 2025
+* **Notification aux auteurs**: 10 Mai 2025
+* **Version finale**: 16 Mai 2025
 * **Atelier** : 30 Juin 2025
 
 ### Contact
