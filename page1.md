@@ -6,14 +6,14 @@ rank: 1
 ### Instructions to Authors
 
 * **Submission Due**: 30 April 2025
-* **Author Notification**: 15 May 2025
-* **Camera ready**: 17 May 2025
+* **Author Notification**: 12 May 2025
+* **Camera ready**: 16 May 2025
 * **Workshop**: 30 June 2025
 
 
 <details>
-  <summary>Article Submission Instructions (fr)</summary>
-  <p>Les soumissions sont acceptées en anglais ou en français.</p>
+  <summary><strong>Article Submission Instructions (fr)</strong></summary>
+  <p>Les soumissions sont acceptées en anglais ou en français. Limites de pages - 4 pages (court), 10 pages (long), hors références, annexe.</p>
 
   <p><strong>Système de soumission :</strong> 
     <a href="https://easychair.org/my/conference?conf=coriataln2025">
@@ -38,8 +38,8 @@ rank: 1
 
 
 <details>
-  <summary>Article Submission Instructions (en)</summary>
-  <p>Submissions are accepted both in English or French.</p>
+  <summary><strong>Article Submission Instructions (en)</strong></summary>
+  <p>Submissions are accepted both in English or French. Page limits -- 4 pages (short) , 10 pages (long), excluding references, appendix.</p>
 
   <p><strong>Submission website:</strong> 
     <a href="https://easychair.org/my/conference?conf=coriataln2025">
@@ -47,11 +47,11 @@ rank: 1
     </a>
   </p>
 
-  <p><strong>Style sheets:</strong> Style sheets are common to TALN, CORIA, RECITAL, and RJCRI.</p>
+  <p><strong>Style sheets:</strong> Style sheets are common to the main conference of TALN, CORIA, RECITAL, and RJCRI.</p>
 
   <p>Overleaf template can be found here:  
     <a href="https://www.overleaf.com/latex/templates/modele-de-document-pour-coria-taln-2025/fbxpxfpqhmkm">
-      Feuilles de style CORIA-TALN 2025
+      Overleaf template for MLP-LLM 2025
     </a>
   </p>
 
