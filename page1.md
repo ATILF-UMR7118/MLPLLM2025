@@ -25,7 +25,7 @@ rank: 1
 
   <p>Un modèle Overleaf est disponible ici : 
     <a href="https://www.overleaf.com/latex/templates/modele-de-document-pour-coria-taln-2025/fbxpxfpqhmkm">
-      Feuilles de style CORIA-TALN 2025
+      Feuilles de style MLP-LLM 2025
     </a>
   </p>
 
