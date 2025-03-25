@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 a {
-  color: #cb9500;
+  color: #237D38;
   &:visited {
-    color: #7d5093;
+    color: #505393;
   }
   &:hover {
-    color: #ffd200;
+    color: #1ADA46;
   }
 }
 
@@ -19,7 +19,7 @@ h1{
   font-weight: bold;
 }
 h1,h2,h3,h4,h5,h6 {
-  color: #cb9500;
+  color: #237D38;
 }
 
 .logo {
