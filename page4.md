@@ -4,6 +4,10 @@ title: Keynote Talk
 rank: 3
 ---
 
+![](assets/img/border.png)
+
+<br>
+
 ## Keynote Speaker
 
 ![](assets/img/csm_Natalia.jpg)
@@ -19,7 +23,7 @@ Dr. Natalia Grabar est chercheuse en Traitement Automatique des Langues (TAL), s
 Dr. Natalia Grabar is a researcher in Natural Language Processing (NLP), specializing in scientific and technical texts. She is currently a Chargée de Recherche (Class 1) at the CNRS, affiliated with the UMR 8163 STL at the University of Lille. She holds a PhD in Medical Informatics from Université Paris 6 and has a background in Philology from Lviv University, Ukraine. Her research focuses on terminology structuring, information retrieval and extraction, document typology, and the quality and reliability of health-related information. Dr. Grabar has worked in various research and academic settings. She spent a year at the Health on the Net foundation in Geneva, contributing to studies on health information accessibility. She then worked for three years as an Assistant Hospitalo-Universitaire (AHU) at Hôpital Européen Georges Pompidou and in a medical informatics unit at Inserm. She has also supervised 38 Master’s theses and PhD dissertations. Her work applies linguistic and statistical methods to improve access to information through NLP, particularly in information retrieval, information extraction, and text simplification. Her research contributes to the development of methods and tools for processing specialized language, with applications in healthcare and other technical fields.
 </details>
 
-
+<br>
 ### Abstract
 
 _TBA_
