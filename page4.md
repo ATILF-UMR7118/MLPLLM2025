@@ -3,11 +3,8 @@ layout: default
 title: Keynote Talk
 rank: 3
 ---
-
 ![](assets/img/border.png)
-
 ## Keynote Speaker
-
 ![](assets/img/csm_Natalia.jpg)
 
 [Natalia Grabar](http://natalia.grabar.free.fr/), CNRS Researcher, Université de Lille
