@@ -8,7 +8,7 @@ title: MLP-LLM 2025
 
 **Date** : 30th Juin 2025
 
-*[Last Update : 12th March 2025]*
+*[Last Update : 4th April 2025]*
 
 [[Go to en version](https://atilf-umr7118.github.io/MLPLLM2025/page3.html)]
 

@@ -10,7 +10,7 @@ rank: 5
 
 **Date** : 30th June 2025
 
-*[Last Update : 12th March 2025]*
+*[Last Update : 4th April 2025]*
 
 [[Go to fr version](https://atilf-umr7118.github.io/MLPLLM2025/)]
 
