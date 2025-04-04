@@ -3,6 +3,7 @@ layout: default
 title: Organizing Committee
 rank: 2
 ---
+![](assets/img/border.png)
 ### Programme Committee
 
 * Ioana Buhnila, ATILF, CNRS - Université de Lorraine (co-responsable)

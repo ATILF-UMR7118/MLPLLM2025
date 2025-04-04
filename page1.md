@@ -3,6 +3,7 @@ layout: default
 title: Author Instructions
 rank: 1
 ---
+![](assets/img/border.png)
 ### Instructions to Authors
 
 * **Submission Due**: 30 April 2025
@@ -36,7 +37,7 @@ rank: 1
   </p>
 </details>
 
-
+<br>
 <details>
   <summary><strong>Article Submission Instructions (en)</strong></summary>
   <p>Submissions are accepted both in English or French. Page limits -- 4 pages (short) , 10 pages (long), excluding references, appendix.</p>

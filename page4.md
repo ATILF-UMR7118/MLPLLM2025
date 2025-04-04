@@ -6,8 +6,6 @@ rank: 3
 
 ![](assets/img/border.png)
 
-<br>
-
 ## Keynote Speaker
 
 ![](assets/img/csm_Natalia.jpg)
