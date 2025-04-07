@@ -1,8 +1,7 @@
 ---
 title: MLP-LLM 2025 
 ---
-
-# Medical Language Processing in the era of Large Language Models (MLP-LLM 2025)
+![](assets/img/border.png)
 
 **Venue** : Colocated with [CORIA-TALN 2025](https://coria-taln-2025.lis-lab.fr/), Marseille, France
 
