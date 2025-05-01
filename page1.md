@@ -6,10 +6,12 @@ rank: 1
 ![](assets/img/border.png)
 ### Instructions to Authors
 
-* **Submission Due**: 30 April 2025 (23:59 UTC-12, Anywhere on Earth)
-* **Author Notification**: 12 May 2025
+* **Submission Due**: 3 May 2025
+* **Author Notification**: 13 May 2025
 * **Camera ready**: 16 May 2025
 * **Workshop**: 30 June 2025
+
+All deadlines are wrt 23:59 UTC-12, Anywhere on Earth time zone.
 
 
 <details>

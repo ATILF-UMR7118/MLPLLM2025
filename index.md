@@ -7,9 +7,9 @@ title: MLP-LLM 2025
 
 **Date** : 30th Juin 2025
 
-**Deadline** : 30th April 23:59 UTC-12 (AOE)
+## **Deadline** : 3rd May 23:59 UTC-12 (AOE)
 
-*[Last Update : 30th April 2025]*
+*[Last Update : 1st May 2025]*
 
 [[Go to en version](https://atilf-umr7118.github.io/MLPLLM2025/page3.html)]
 
@@ -41,10 +41,12 @@ Les types d'article acceptés sont:
 
 ### Important Dates
 
-* **Soumission des articles**: 30 Avril 2025
-* **Notification aux auteurs**: 12 Mai 2025
+* **Soumission des articles**: 3 Mai 2025
+* **Notification aux auteurs**: 13 Mai 2025
 * **Version finale**: 16 Mai 2025
 * **Atelier** : 30 Juin 2025
+
+Toutes les dates limites sont exprimées en fonction de 23h59 UTC-12, soit le fuseau horaire 'Partout sur Terre' (Anywhere on Earth)
 
 ### Contact
 
