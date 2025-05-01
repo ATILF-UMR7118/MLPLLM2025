@@ -9,7 +9,10 @@ rank: 5
 
 **Date** : 30th June 2025
 
-*[Last Update : 4th April 2025]*
+**Deadline** : 30th April 23:59 UTC-12 (AOE)
+
+*[Last Update : 30th April 2025]*
+
 
 [[Go to fr version](https://atilf-umr7118.github.io/MLPLLM2025/)]
 
