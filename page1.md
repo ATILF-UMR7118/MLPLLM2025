@@ -7,8 +7,8 @@ rank: 1
 ### Instructions to Authors
 
 * **Submission Due**: 3 May 2025
-* **Author Notification**: 13 May 2025
-* **Camera ready**: 16 May 2025
+* **Author Notification**: 23 May 2025
+* **Camera ready**: 30 May 2025
 * **Workshop**: 30 June 2025
 
 All deadlines are wrt 23:59 UTC-12, Anywhere on Earth time zone.
@@ -16,7 +16,7 @@ All deadlines are wrt 23:59 UTC-12, Anywhere on Earth time zone.
 
 <details>
   <summary><strong>Article Submission Instructions (fr)</strong></summary>
-  <p>Les soumissions sont acceptées en anglais ou en français. Limites de pages - 4 pages (court), 10 pages (long), hors références, annexe.</p>
+  <p>Les soumissions sont acceptées en anglais ou en français. Limites de pages - 4 pages (court), 10 pages (long), hors références, annexe. Les relectures se font en double aveugle et les annexes sont acceptées dans la version finale du papier</p>
 
   <p><strong>Système de soumission :</strong> 
     <a href="https://easychair.org/my/conference?conf=coriataln2025">
@@ -42,7 +42,7 @@ All deadlines are wrt 23:59 UTC-12, Anywhere on Earth time zone.
 <br>
 <details>
   <summary><strong>Article Submission Instructions (en)</strong></summary>
-  <p>Submissions are accepted both in English or French. Page limits -- 4 pages (short) , 10 pages (long), excluding references, appendix.</p>
+  <p>Submissions are accepted both in English or French. Page limits -- 4 pages (short) , 10 pages (long), excluding references, appendix. Reviews are conducted in a double-blind manner, and appendices are accepted in the final version of the paper.</p>
 
   <p><strong>Submission website:</strong> 
     <a href="https://easychair.org/my/conference?conf=coriataln2025">
