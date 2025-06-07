@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Switch to EN
-rank: 5
+rank: 6
 ---
 ![](assets/img/border.png)
 
@@ -9,9 +9,9 @@ rank: 5
 
 **Date** : 30th June 2025
 
-## **Author Notification** : 23rd May 23:59 UTC-12 (AOE)
+## News : **[Accepted Papers](/page6.md) are out!**
 
-*[Last Update : 6th May 2025]*
+*[Last Update : 7th June 2025]*
 
 
 [[Go to fr version](https://atilf-umr7118.github.io/MLPLLM2025/)]

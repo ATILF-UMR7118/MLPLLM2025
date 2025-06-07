@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Keynote Talk
-rank: 3
+rank: 4
 ---
 ![](assets/img/border.png)
 ## Keynote Speaker
@@ -19,6 +19,9 @@ Dr. Natalia Grabar is a researcher in Natural Language Processing (NLP), special
 </details>
 
 <br>
+
 ### Abstract
 
-_TBA_
+<b>New promises in medical NLP</b>
+
+This presentation looks at the new possibilities opening up in the medical field with the emergence of Very Large Langage Models. We look at the emerging trends and the potential impact they bring.
