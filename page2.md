@@ -20,7 +20,7 @@ rank: 2
 
 * Aurélie Névéol, Université Paris-Saclay, CNRS, LISN  
 * Natalia Grabar, Université de Lille  
-* Remi Cardon, CENTAL, IL&C, Université Catholique de Louvain  
+* Remi Cardon, Ghent University  
 * Cyril Grouin, LISN, CNRS - Université Paris-Saclay  
 * Amalia Todirascu, LiLPa, Université de Strasbourg  
 * Lina F. Soualmia, Université Rouen Normandie  
@@ -31,7 +31,7 @@ rank: 2
 * Richard Dufour, Université de Nantes  
 * Mathieu Constant, Université de Lorraine  
 * Timothee Mickus, University of Helsinki  
-* Claire Nedellec, Institut National de Recherche Agronomique (INRA)  
+* Claire Nedellec, INRAE  
 * Lisa Raithel, DFKI  
 * Ioana Buhnila, ATILF, CNRS - Université de Lorraine  
 * Aman Sinha, IECL- ATILF - ICANS
