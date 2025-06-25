@@ -7,9 +7,9 @@ title: MLP-LLM 2025
 
 **Date** : 30th Juin 2025
 
-## News : **[Detailed Programme](/page5.md) is out!**
+## News : **[Participants Info](/page7.md) is out!**
 
-*[Last Update : 21th June 2025]*
+*[Last Update : 25th June 2025]*
 
 [[Go to en version](https://atilf-umr7118.github.io/MLPLLM2025/page3.html)]
 

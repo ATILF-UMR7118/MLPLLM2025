@@ -9,9 +9,9 @@ rank: 8
 
 **Date** : 30th June 2025
 
-## News : **[Detailed Programme](/page5.md) is out!**
+## News : **[Participants Info](/page7.md) is out!**
 
-*[Last Update : 21th June 2025]*
+*[Last Update : 25th June 2025]*
 
 
 [[Go to fr version](https://atilf-umr7118.github.io/MLPLLM2025/)]
