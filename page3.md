@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Switch to EN
-rank: 6
+rank: 7
 ---
 ![](assets/img/border.png)
 
@@ -71,6 +71,8 @@ All deadlines are wrt 23:59 UTC-12, Anywhere on Earth time zone.
 * Delphine Charuau, Trinity College Dublin 
 * Sam Bigeard, INRIA, Université de Lorraine
 
+### Scientific Advisor
+* Mathieu Constant, Université de Lorraine
 
 ### Scientific Committee
 

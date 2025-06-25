@@ -15,6 +15,9 @@ rank: 2
 * Delphine Charuau, Trinity College Dublin 
 * Sam Bigeard, INRIA, Université de Lorraine
 
+### Scientific Advisor
+* Mathieu Constant, Université de Lorraine
+
 
 ### Scientific Committee
 

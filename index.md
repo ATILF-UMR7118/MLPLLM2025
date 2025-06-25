@@ -63,6 +63,9 @@ Toutes les dates limites sont exprimées en fonction de 23h59 UTC-12, soit le fu
 * Delphine Charuau, Trinity College Dublin 
 * Sam Bigeard, INRIA, Université de Lorraine
 
+### Scientific Advisor
+* Mathieu Constant, Université de Lorraine
+
 
 ### Scientific Committee
 
