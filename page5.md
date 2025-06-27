@@ -28,5 +28,7 @@ rank: 5
 * **Evaluation et analyse des performances des grands modèles de langue sur des épreuves d’examen de médecine français.** _Adrien Kuhnast and Loic Verlingue_
 * **Summarization for Generative Relation Extraction in the Microbiome Domain.** _Oumaima El Khettari, Solen Quiniou, Samuel Chaffron_
 * **Using Large Language Models for Temporal Relation Extraction from pediatric clinical reports.** _Andrew Judith Jeyafreeda, Marc Vincent, Nicolas Garcelon and Anita Burgun_
+* **Hallucination Detection in Automatically Generated Medical Reports: An Optimization Approach for Semantic Layers and Adaptive Thresholds.** _Souhir Khessiba, Nadège Alavoine, Damien Forest_
+- **Structuration Automatique de la Posologie en Français : Quel rôle pour les LLMs ?** _Natalia Bobkova, Laura Zanella-Calzada, Anyes Tafoughalt, Raphaël Teboul, François Plesse, Félix Gaschi_
 
 17:45 - 18:00 - Closing 
